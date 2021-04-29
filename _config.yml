@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "강동연"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "법의학자를 꿈꾸는 고등학생"
   location         : "대한민국, 서울"
   email            : "kang1ryan83@gmail.com"
