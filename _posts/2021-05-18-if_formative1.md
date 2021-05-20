@@ -20,11 +20,14 @@ int main(void)
 else 
  printf("당신의 사주는 그럭저럭입니다.\n"); 
  return 0; 
-}~~~ 
+}
+~~~ 
+
 
 ### 02. 3개의 터널 통과 
 ![tunnul](/assets/images/터널.PNG) 
 ~~~c 
+
 #include <stdio.h> 
 int main(void) 
 { int tunnul_1, tunnul_2, tunnul_3; 
@@ -44,6 +47,7 @@ int main(void)
 
 ### 03. 이 달은 며칠까지 있을까? 
 ![callenderl](/assets/images/달력.PNG) 
+
 ~~~c 
 #include <stdio.h> 
 int main(void) 
@@ -64,4 +68,5 @@ int main(void)
  } 
  printf("입니다.\n"); 
  return 0; 
-}~~~ 
+}
+~~~ 
